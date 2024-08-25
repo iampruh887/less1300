@@ -2,8 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     display: flex;
-    http://127.0.0.1:5500/    /* height: 100vh; */
-    margin: 0;
+    margin: 30px;
 }
 
 .container {
